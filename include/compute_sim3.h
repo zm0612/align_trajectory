@@ -197,6 +197,8 @@ void ComputeSim3<Type>::SyncTraj(_tTraj &syncedTraj_1, _tTraj &syncedTraj_2) {
         }
 
     }
+    syncedTraj_1 = _vSyncedTraj_1;
+    syncedTraj_2 = _vSyncedTraj_2;
 }
 
 template<typename Type>
