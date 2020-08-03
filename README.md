@@ -8,6 +8,10 @@ This codes can be used to align trajectory. And show trajectory, show position a
 
 ![](./data/gui.gif)
 
+## Dependencies
+- Pangolin
+- EIgen
+
 ## Usage
 
 Compile: 
